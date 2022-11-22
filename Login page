@@ -1,0 +1,43 @@
+<!-- First page -->
+<html>
+<body>
+<h1>welcome to my first website </h1>
+<a>Please
+<a href="https://www.onlinegdb.com/online_c_compiler#editor_1"> log in </a> 
+to continue </a>
+
+</body>
+</html>
+
+<!-- Login page -->
+<html>
+<body>
+<h1></h1>
+
+<h1>Welcome to Login page</h1>
+<br>
+<form action = "https://www.onlinegdb.com/online_c_compiler#editor_1" method = "POST">
+    <div>
+        <lable for = "user name"> User name </lable> 
+        <input type = "text" 
+               name = "user name" 
+               id = "user name" 
+               maxlength = "25" required>
+    </div>
+    <br>
+    <div>
+       <lable for = "Passward" >  Passward    </lable >
+       <input type = "passward" 
+       name = "Passward" 
+       id = "Passward" 
+       maxlength = "8" required>
+   </div>
+   <br>
+   <br>
+   <div>
+       <button id = "button"> Login </button>
+   </div>
+ </form>
+
+</body>
+</html>
